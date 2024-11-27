@@ -1,2 +1,2 @@
-# 2024-Linear-Regression-and-PCA
-This is an assignment from Data Science Boot Camp at dibimbing.id to experiment with linear regression and PCA.
+# Linear Regression and PCA
+In this project, we experimented with the linear regression model and principal component analysis to predict the house price.
